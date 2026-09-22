@@ -9,6 +9,7 @@ The goal is to preserve reusable conclusions rather than personal trip history. 
 - [Destination course selection framework](guides/course-selection-framework.md)
 - [Difficulty and tee selection](guides/difficulty-and-tee-selection.md)
 - [Tee time, sunset, and pace](guides/tee-time-sunset-and-pace.md)
+- [Wind, weather, and course conditions](guides/wind-weather-and-course-conditions.md)
 - [Equipment and golf logistics](guides/equipment-and-logistics.md)
 
 ## Destination guides
