@@ -1,15 +1,14 @@
 # Golf Research Guide
 
-Public research notes on golf-course selection, destination golf, equipment logistics, tee-time design, and itinerary planning.
+Public research notes distilled from prior ChatGPT discussions about destination golf, Hawaii courses, California/Orlando golf, twilight timing, course-condition risk, and golf logistics.
 
-The goal is to preserve reusable conclusions rather than personal trip history. Rates, access rules, maintenance schedules, tee inventory, and operating policies change frequently and should always be re-verified.
+This repository is **not** intended to become a general golf manual. A topic belongs here only if it was actually discussed first; external sources may verify course access, maintenance, timing, or policies but should not create unrelated new topics.
 
 ## Start here
 
 - [Destination course selection framework](guides/course-selection-framework.md)
-- [Difficulty and tee selection](guides/difficulty-and-tee-selection.md)
-- [Tee time, sunset, and pace](guides/tee-time-sunset-and-pace.md)
-- [Wind, weather, and course conditions](guides/wind-weather-and-course-conditions.md)
+- [Tee time, sunset, and pairing](guides/tee-time-sunset-and-pace.md)
+- [Weather, closures, and course conditions](guides/wind-weather-and-course-conditions.md)
 - [Equipment and golf logistics](guides/equipment-and-logistics.md)
 
 ## Destination guides
@@ -21,16 +20,20 @@ The goal is to preserve reusable conclusions rather than personal trip history. 
 ## Research principles
 
 - Scenic destination golf should be evaluated as part of the whole trip, not only by course ranking.
-- Course Rating and Slope should be used correctly; Slope alone is not an absolute ranking of course difficulty.
-- Twilight value depends on sunset, pace, finishing-hole scenery, cart-return rules, and downstream dinner/activity timing.
-- Resort access, public access, guest rates, maintenance schedules, and weather disruptions are first-class planning variables.
-- For multi-hotel trips, club storage and transfer friction can matter as much as the nominal green fee.
-- An “open” course can still be poor value if aeration, temporary greens, storm damage, or restrictions materially compromise the experience.
+- Twilight value depends on sunset, course/cart cutoff, likely pace, pairing, and downstream plans.
+- Resort access, maintenance, storm recovery, and weather disruptions are first-class planning variables when they affect a researched trip.
+- Club storage and transfer friction matter on multi-hotel golf trips.
+- An “open” course may still be a compromised premium experience after storm damage or maintenance.
 
 ## Research standard
 
-Durable golf concepts can be retained; operational facts should be dated and rechecked. For U.S. course difficulty, prefer the USGA National Course Rating Database over unsourced third-party numbers.
+Every addition should pass two tests:
+
+1. **Conversation provenance** — the course, destination, timing issue, maintenance question, or logistics problem was actually discussed.
+2. **Public-safe transformation** — personal handicaps, booking confirmations, exact private travel details, and individual equipment history are removed or generalized.
+
+External sources should verify discussed operational facts, not expand the repository into handicap theory, Course Rating/Slope education, swing instruction, or other topics that were never researched in conversation.
 
 ## Privacy rule
 
-Do not publish personal handicaps, private club-member information, identifiable travel plans, booking confirmations, or an individual's equipment history. Convert useful lessons into general guidance.
+Do not publish personal handicaps, private club-member information, identifiable travel plans, booking confirmations, or an individual's equipment history.
