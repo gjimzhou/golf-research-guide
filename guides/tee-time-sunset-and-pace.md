@@ -1,89 +1,46 @@
-# Tee Time, Sunset, and Pace
+# Tee Time, Sunset, and Pairing
 
-Late-afternoon golf is a scheduling problem, not merely a discounted-rate category.
+Late-afternoon golf was discussed repeatedly for Hawaii resort courses, especially Hualālai.
 
-The right question is: **what is the probability of finishing the holes that matter, in useful light, without creating downstream stress?**
+## Work backward from sunset
 
-## 1. Work backward from sunset
+The main lesson was that the advertised twilight start time is not enough.
 
-Start with local sunset for the exact date, then subtract:
+A useful tee-time check includes:
 
-- desired light margin after the final hole;
+- local sunset;
 - expected round duration;
-- warm-up/check-in;
-- possible pairing or starter delay;
-- course-specific cart-return requirement.
+- course closing or cart-return rule;
+- whether the goal is to finish all 18 holes;
+- whether the final scenic holes are important;
+- dinner or other plans after golf.
 
-Do not assume a “twilight” label means 18 holes are realistically finishable.
+A late discount can be poor value if the round reaches the best finishing holes in darkness.
 
-## 2. Pace is uncertain
+## Twilight can improve trip fit
 
-Round time changes with:
+An afternoon round can preserve the morning for the resort and may fit a relaxed vacation better than an early tee time.
 
-- course length and difficulty;
-- walking vs. cart;
-- cart-path-only rules;
-- group size;
-- pairing;
-- lost-ball frequency;
-- resort traffic;
-- tournament or outing blocks;
-- weather.
+That was part of the reason to consider twilight even when completing 18 holes was not guaranteed.
 
-A schedule that requires a perfect four-hour round has little resilience.
+## Pairing is not guaranteed private play
 
-## 3. Scenic finishing holes increase the value of margin
+A request for two players should not be treated as a guaranteed private twosome.
 
-On destination courses, the final holes may be part of the reason for playing.
+Prior discussions concluded that lower-traffic afternoon times can improve the chance of avoiding a pairing, but the course may still combine groups.
 
-If the last 3–5 holes contain major ocean views, signature carries, or sunset-facing scenery, price the risk of reaching them in darkness.
+Buying four spots solely to block pairing was not treated as a sensible default.
 
-An earlier tee time can have higher experiential value even if it costs more.
+## Course-specific closing rules matter
 
-## 4. Pairing affects both pace and predictability
+The Hualālai discussion showed why the operational cutoff matters: the course/cart deadline can arrive before the last usable light.
 
-A twosome request is not the same as a guaranteed private twosome.
+This means the realistic finish window should use the course's own rule rather than sunset alone.
 
-Busy destination courses often pair smaller groups. Ask directly whether:
+## Conclusion
 
-- remaining slots are still for sale;
-- the course guarantees private play;
-- a buyout is possible;
-- twilight demand tends to produce full groups.
+For scenic resort golf, optimize for a comfortable, enjoyable round that fits the rest of the day rather than the mathematically latest possible tee time.
 
-## 5. Ready golf and pace etiquette
+## Scope
 
-USGA pace guidance encourages ready golf in stroke play and recommends making each stroke in 40 seconds or less when it is the player's turn.
-
-Useful habits:
-
-- prepare while others play;
-- play a provisional when appropriate;
-- park the cart or bag toward the next tee;
-- read putts while others are putting when safe;
-- limit ball searches to the Rules allowance;
-- pick up when a recreational format or maximum-score game makes continuing pointless.
-
-## 6. A practical finish-probability buffer
-
-For a course normally expected to take about 4:15, do not simply start 4:15 before sunset.
-
-For a scenic vacation round, consider adding meaningful buffer for:
-
-- 10–20 minutes of starter delay;
-- a slower group ahead;
-- photos and sightseeing;
-- cart restrictions;
-- late-day wind;
-- the desire to finish before the light becomes flat.
-
-The exact margin is course-specific, but the principle is robust: **optimize for a comfortable finish, not the mathematically latest possible tee time.**
-
-## Sources
-
-Last checked: 2026-09-22.
-
-- [USGA / R&A — Pace of Play Improvements](https://www.usga.org/content/dam/usga/pdf/2019/2019Infographics/2019_RulesModernization_PaceofPlay.pdf)
-- [USGA National Course Rating Database](https://ncrdb.usga.org/)
-
-Sunset, tee-time rules, cart-return deadlines, and pairing policies should be verified for the exact course and date.
+Keep this page focused on the twilight, sunset, pairing, and scheduling issues already discussed. General pace-of-play etiquette belongs elsewhere only if it becomes a separate research topic.
