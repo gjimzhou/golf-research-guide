@@ -1,111 +1,52 @@
 # Destination Golf Course Selection Framework
 
-A vacation round should not be chosen by ranking alone. The best course for a trip is the one that creates the most value after **difficulty, scenery, time, access, condition, logistics, and opportunity cost** are considered together.
+This page distills how destination courses were actually compared in prior Hawaii, California, and Orlando discussions.
 
-## 1. Separate golf quality from trip fit
+## A vacation course is part of the trip
 
-Evaluate two layers.
+Course ranking alone was never the only criterion.
 
-### Course quality
+The recurring comparison dimensions were:
 
-- architecture and routing;
-- conditioning;
 - scenery and sense of place;
-- practice facilities;
-- greens and short-game interest;
-- distinctiveness relative to other courses on the trip.
-
-### Trip fit
-
-- drive time from hotel;
+- whether the course is enjoyable at the group's level;
+- drive time from the hotel;
+- resort integration;
 - tee-time availability;
-- resort-guest access;
-- rental-club quality;
-- club storage/shipping friction;
+- course condition and maintenance risk;
 - expected pace;
-- weather exposure;
-- aeration/overseeding or maintenance;
-- sunset;
-- whether the round blocks a better resort, beach, spa, or sightseeing day.
+- sunset and twilight timing;
+- whether golf displaces a better resort or sightseeing day.
 
-A highly ranked course can still be the wrong vacation round.
+## Scenic and playable can beat famous and punishing
 
-## 2. Optimize for memorable holes, not punishment
+For vacation golf, a memorable course that fits the players can create more trip value than a more famous course that is unnecessarily difficult or consumes the entire day.
 
-For many destination golfers, the objective is a memorable experience rather than proving the ability to survive the back tees.
+This was especially relevant when comparing courses in Hawaii and California.
 
-A course is often a better fit when it offers:
+## Resort integration matters
 
-- strong visual identity;
-- playable landing areas from an appropriate tee;
-- limited forced carries for the player's ability;
-- reasonable recovery options;
-- a routing that keeps the landscape present throughout the round.
+On-property or nearby golf can be structurally attractive because it reduces:
 
-## 3. Use current Course Rating and Slope correctly
+- driving;
+- club handling;
+- scheduling friction;
+- the amount of the resort day consumed by the round.
 
-USGA Course Rating estimates difficulty for a scratch player under normal conditions. Slope Rating describes the **relative** difficulty for non-scratch players compared with scratch players.
+That advantage was part of the comparison among Hualālai, Mauna Kea, and Mauna Lani.
 
-A common error is treating Slope as an absolute course-difficulty ranking. USGA specifically warns against that interpretation.
+## Condition can override reputation
 
-For trip planning, compare the full tee data:
+Maintenance, aeration, storm recovery, or temporary restrictions can materially change the value of a premium destination round.
 
-- yardage;
-- par;
-- Course Rating;
-- Slope Rating;
-- forced carries and elevation;
-- expected wind;
-- course-specific hazards.
+The repeated lesson was to verify condition before the cancellation deadline rather than assuming that “open” means normal.
 
-## 4. Add a condition-risk discount
+## Trip flow matters
 
-Premium destination pricing only makes sense if the product is reasonably close to premium condition.
+A golf round should fit around the rest of the trip.
 
-Before the cancellation deadline, check:
+Afternoon golf, twilight, dinner timing, hotel changes, and club-transfer logistics were all treated as part of the decision rather than separate details.
 
-- aeration dates;
-- overseeding;
-- temporary greens;
-- cart-path-only restrictions;
-- storm damage;
-- renovation;
-- bunker work;
-- greens recovery;
-- recent course reports.
+## Scope
 
-“Open” does not necessarily mean “worth full destination-golf pricing.”
-
-## 5. Quantify time cost
-
-A round can consume:
-
-- hotel-to-course transfer;
-- check-in and warm-up;
-- 4–5+ hours of play;
-- shower/change time;
-- return transfer.
-
-A nominal morning round can occupy most of a resort day. This is why on-property golf has a structural advantage on trips where resort time is valuable.
-
-## 6. Use a simple decision table
-
-| Dimension | Question |
-| --- | --- |
-| Distinctiveness | Does this course offer scenery or architecture unavailable elsewhere on the trip? |
-| Playability | Is there an appropriate tee without excessive forced carries? |
-| Condition | Are greens and fairways in premium shape for the date? |
-| Logistics | How much driving or club handling is required? |
-| Access | Is the tee time actually bookable under current guest/public rules? |
-| Time | What is the door-to-door block? |
-| Weather | Is wind/rain/heat likely to change the experience? |
-| Value | Is the premium justified after all of the above? |
-
-## Sources
-
-Last checked: 2026-09-22.
-
-- [USGA — Course Rating and Slope Rating](https://www.usga.org/content/usga/home-page/handicapping/world-handicap-system/topics/course-rating-and-slope-rating.html)
-- [USGA National Course Rating Database](https://ncrdb.usga.org/)
-
-Access, rates, maintenance, and course conditions are operational facts; verify them with the course for the actual play date.
+Do not expand this page into a general golf-course architecture, handicap, or Course Rating/Slope guide unless those topics are separately researched in conversation.
