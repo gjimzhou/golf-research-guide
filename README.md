@@ -1,5 +1,7 @@
 # Golf Research Guide
 
+**Live site:** https://gjimzhou.github.io/golf-research-guide/
+
 Public research notes distilled from prior ChatGPT discussions about destination golf, Hawaii courses, California/Orlando golf, twilight timing, course-condition risk, and golf logistics.
 
 This repository is **not** intended to become a general golf manual. A topic belongs here only if it was actually discussed first; external sources may verify course access, maintenance, timing, or policies but should not create unrelated new topics.
