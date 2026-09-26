@@ -39,3 +39,7 @@ External sources should verify discussed operational facts, not expand the repos
 ## Privacy rule
 
 Do not publish personal handicaps, private club-member information, identifiable travel plans, booking confirmations, or an individual's equipment history.
+
+## Copyright and reuse
+
+Original editorial content © 2026 Junliang Zhou; all rights reserved in eligible expression. Brief attributed quotation, citation, criticism and sharing links are welcome. Public facts are not proprietary. Functional website code is separately [MIT licensed](LICENSE-CODE). Third-party photography retains its original rights. See [copyright and privacy boundaries](COPYRIGHT.md) and [photo credits and rights status](PHOTO-RIGHTS.md).
